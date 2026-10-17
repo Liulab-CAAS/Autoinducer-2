@@ -1,4 +1,4 @@
-## BGC analysis of CRBC and published genomes
+## AI-2
 
 ### 1. The genomic data processing and AI-2-related proteins prospecting
 ```shell
